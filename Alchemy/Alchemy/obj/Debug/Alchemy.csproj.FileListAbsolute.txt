@@ -1,0 +1,14 @@
+C:\Users\РС\source\repos\Alchemy\Alchemy\obj\Debug\Alchemy.csprojAssemblyReference.cache
+C:\Users\РС\source\repos\Alchemy\Alchemy\obj\Debug\Alchemy.csproj.CoreCompileInputs.cache
+C:\Users\РС\source\repos\Alchemy\Alchemy\bin\Debug\Alchemy.exe.config
+C:\Users\РС\source\repos\Alchemy\Alchemy\bin\Debug\Alchemy.exe
+C:\Users\РС\source\repos\Alchemy\Alchemy\bin\Debug\Alchemy.pdb
+C:\Users\РС\source\repos\Alchemy\Alchemy\obj\Debug\Alchemy.exe
+C:\Users\РС\source\repos\Alchemy\Alchemy\obj\Debug\Alchemy.pdb
+C:\Users\Artem\source\repos\Alchemy\Alchemy\bin\Debug\Alchemy.exe.config
+C:\Users\Artem\source\repos\Alchemy\Alchemy\bin\Debug\Alchemy.exe
+C:\Users\Artem\source\repos\Alchemy\Alchemy\bin\Debug\Alchemy.pdb
+C:\Users\Artem\source\repos\Alchemy\Alchemy\obj\Debug\Alchemy.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\Alchemy\Alchemy\obj\Debug\Alchemy.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Alchemy\Alchemy\obj\Debug\Alchemy.exe
+C:\Users\Artem\source\repos\Alchemy\Alchemy\obj\Debug\Alchemy.pdb

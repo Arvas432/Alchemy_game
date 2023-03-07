@@ -1,0 +1,196 @@
+﻿=================================================================
+APPSTART 21.02.2019 17:40:13
+=================================================================
+BEGINCOMPARSION язык дракона, коготь медведя, вода | коготь медведя, язык дракона, вода
+COMP INGR язык дракона vs коготь медведя. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result False
+COMP INGR язык дракона vs язык дракона. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient_dragonstounge_ with result True
+COMP INGR язык дракона vs вода. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredients.Ingredient_water_ with result False
+COMP INGR коготь медведя vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result True
+COMP INGR коготь медведя vs язык дракона. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient_dragonstounge_ with result False
+COMP INGR коготь медведя vs вода. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredients.Ingredient_water_ with result False
+COMP INGR вода vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result False
+COMP INGR вода vs язык дракона. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient_dragonstounge_ with result False
+COMP INGR вода vs вода. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredients.Ingredient_water_ with result True
+ENDCOMPARSION with result TRUE
+BEGINCOMPARSION ядовитый колокольчик, коготь ворожеи, голубой горный цветок | вода, язык дракона, коготь медведя
+COMP INGR ядовитый колокольчик vs вода. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs язык дракона. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs коготь медведя. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs вода. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs язык дракона. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs коготь медведя. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs вода. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs язык дракона. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs коготь медведя. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION язык дракона, коготь медведя, вода | вода, язык дракона, коготь медведя
+COMP INGR язык дракона vs вода. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR язык дракона vs язык дракона. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR язык дракона vs коготь медведя. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR коготь медведя vs вода. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь медведя vs язык дракона. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь медведя vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient with result False
+COMP INGR вода vs вода. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+COMP INGR вода vs язык дракона. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+COMP INGR вода vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION черный порох, прах вампира, шкурка крысы | вода, язык дракона, коготь медведя
+COMP INGR черный порох vs вода. Typing Alchemy.Ingredients.Ingredient_blackpowder_ == Alchemy.Ingredient with result False
+COMP INGR черный порох vs язык дракона. Typing Alchemy.Ingredients.Ingredient_blackpowder_ == Alchemy.Ingredient with result False
+COMP INGR черный порох vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_blackpowder_ == Alchemy.Ingredient with result False
+COMP INGR прах вампира vs вода. Typing Alchemy.Ingredients.Ingredient_vampiredust_ == Alchemy.Ingredient with result False
+COMP INGR прах вампира vs язык дракона. Typing Alchemy.Ingredients.Ingredient_vampiredust_ == Alchemy.Ingredient with result False
+COMP INGR прах вампира vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_vampiredust_ == Alchemy.Ingredient with result False
+COMP INGR шкурка крысы vs вода. Typing Alchemy.Ingredient_ratshide_ == Alchemy.Ingredient with result False
+COMP INGR шкурка крысы vs язык дракона. Typing Alchemy.Ingredient_ratshide_ == Alchemy.Ingredient with result False
+COMP INGR шкурка крысы vs коготь медведя. Typing Alchemy.Ingredient_ratshide_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION палец великана, коготь ворожеи, мох, шкурка крысы | вода, язык дракона, коготь медведя
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION палец великана, голубой горный цветок, мох | вода, язык дракона, коготь медведя
+COMP INGR палец великана vs вода. Typing Alchemy.Ingredient_giantstoe_ == Alchemy.Ingredient with result False
+COMP INGR палец великана vs язык дракона. Typing Alchemy.Ingredient_giantstoe_ == Alchemy.Ingredient with result False
+COMP INGR палец великана vs коготь медведя. Typing Alchemy.Ingredient_giantstoe_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs вода. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs язык дракона. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs коготь медведя. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR мох vs вода. Typing Alchemy.Ingredients.Ingredient_moss_ == Alchemy.Ingredient with result False
+COMP INGR мох vs язык дракона. Typing Alchemy.Ingredients.Ingredient_moss_ == Alchemy.Ingredient with result False
+COMP INGR мох vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_moss_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION язык дракона, черный порох, вода, мох | вода, язык дракона, коготь медведя
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION ядовитый колокольчик, прах вампира, коготь ворожеи | вода, язык дракона, коготь медведя
+COMP INGR ядовитый колокольчик vs вода. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs язык дракона. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs коготь медведя. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR прах вампира vs вода. Typing Alchemy.Ingredients.Ingredient_vampiredust_ == Alchemy.Ingredient with result False
+COMP INGR прах вампира vs язык дракона. Typing Alchemy.Ingredients.Ingredient_vampiredust_ == Alchemy.Ingredient with result False
+COMP INGR прах вампира vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_vampiredust_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs вода. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs язык дракона. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs коготь медведя. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION прах вампира, коготь ворожеи, вода | вода, язык дракона, коготь медведя
+COMP INGR прах вампира vs вода. Typing Alchemy.Ingredients.Ingredient_vampiredust_ == Alchemy.Ingredient with result False
+COMP INGR прах вампира vs язык дракона. Typing Alchemy.Ingredients.Ingredient_vampiredust_ == Alchemy.Ingredient with result False
+COMP INGR прах вампира vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_vampiredust_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs вода. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs язык дракона. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs коготь медведя. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR вода vs вода. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+COMP INGR вода vs язык дракона. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+COMP INGR вода vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION мох, ядовитый колокольчик, вода | вода, язык дракона, коготь медведя
+COMP INGR мох vs вода. Typing Alchemy.Ingredients.Ingredient_moss_ == Alchemy.Ingredient with result False
+COMP INGR мох vs язык дракона. Typing Alchemy.Ingredients.Ingredient_moss_ == Alchemy.Ingredient with result False
+COMP INGR мох vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_moss_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs вода. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs язык дракона. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs коготь медведя. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR вода vs вода. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+COMP INGR вода vs язык дракона. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+COMP INGR вода vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result FALSE
+=================================================================
+APPSTART 21.02.2019 17:42:43
+=================================================================
+BEGINCOMPARSION язык дракона, коготь медведя, вода | коготь медведя, язык дракона, вода
+COMP INGR язык дракона vs коготь медведя. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result False
+COMP INGR язык дракона vs язык дракона. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient_dragonstounge_ with result True
+COMP INGR язык дракона vs вода. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredients.Ingredient_water_ with result False
+COMP INGR коготь медведя vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result True
+COMP INGR коготь медведя vs язык дракона. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient_dragonstounge_ with result False
+COMP INGR коготь медведя vs вода. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredients.Ingredient_water_ with result False
+COMP INGR вода vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result False
+COMP INGR вода vs язык дракона. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient_dragonstounge_ with result False
+COMP INGR вода vs вода. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredients.Ingredient_water_ with result True
+ENDCOMPARSION with result TRUE
+BEGINCOMPARSION ядовитый колокольчик, коготь ворожеи, голубой горный цветок | вода, язык дракона, коготь медведя
+COMP INGR ядовитый колокольчик vs вода. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs язык дракона. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs коготь медведя. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs вода. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs язык дракона. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs коготь медведя. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs вода. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs язык дракона. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs коготь медведя. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION язык дракона, коготь медведя, вода | вода, язык дракона, коготь медведя
+COMP INGR язык дракона vs вода. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR язык дракона vs язык дракона. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR язык дракона vs коготь медведя. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR коготь медведя vs вода. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient wit=================================================================
+APPSTART 21.02.2019 17:46:46
+=================================================================
+BEGINCOMPARSION язык дракона, коготь медведя, вода | коготь медведя, язык дракона, вода
+COMP INGR язык дракона vs коготь медведя. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result False
+COMP INGR язык дракона vs язык дракона. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient_dragonstounge_ with result True
+COMP INGR язык дракона vs вода. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredients.Ingredient_water_ with result False
+COMP INGR коготь медведя vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result True
+COMP INGR коготь медведя vs язык дракона. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient_dragonstounge_ with result False
+COMP INGR коготь медведя vs вода. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredients.Ingredient_water_ with result False
+COMP INGR вода vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result False
+COMP INGR вода vs язык дракона. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient_dragonstounge_ with result False
+COMP INGR вода vs вода. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredients.Ingredient_water_ with result True
+ENDCOMPARSION with result TRUE
+BEGINCOMPARSION ядовитый колокольчик, коготь ворожеи, голубой горный цветок | коготь медведя, язык дракона, вода
+COMP INGR ядовитый колокольчик vs коготь медведя. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs язык дракона. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs вода. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs коготь медведя. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs язык дракона. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs вода. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs коготь медведя. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs язык дракона. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs вода. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION язык дракона, коготь медведя, вода | коготь медведя, язык дракона, вода
+COMP INGR язык дракона vs коготь медведя. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR язык дракона vs язык дракона. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR язык дракона vs вода. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR коготь медведя vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь медведя vs язык дракона. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь медведя vs вода. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient with result False
+COMP INGR вода vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+COMP INGR вода vs язык дракона. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+COMP INGR вода vs вода. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result TRUE
+=================================================================
+APPSTART 21.02.2019 17:47:45
+=================================================================
+BEGINCOMPARSION язык дракона, коготь медведя, вода | коготь медведя, язык дракона, вода
+COMP INGR язык дракона vs коготь медведя. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result False
+COMP INGR язык дракона vs язык дракона. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient_dragonstounge_ with result True
+COMP INGR язык дракона vs вода. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredients.Ingredient_water_ with result False
+COMP INGR коготь медведя vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result True
+COMP INGR коготь медведя vs язык дракона. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient_dragonstounge_ with result False
+COMP INGR коготь медведя vs вода. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredients.Ingredient_water_ with result False
+COMP INGR вода vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredients.Ingredient_bearsclaw_ with result False
+COMP INGR вода vs язык дракона. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient_dragonstounge_ with result False
+COMP INGR вода vs вода. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredients.Ingredient_water_ with result True
+ENDCOMPARSION with result TRUE
+BEGINCOMPARSION ядовитый колокольчик, коготь ворожеи, голубой горный цветок | коготь медведя, язык дракона, вода
+COMP INGR ядовитый колокольчик vs коготь медведя. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs язык дракона. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR ядовитый колокольчик vs вода. Typing Alchemy.Ingredient_poisonousbellflower_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs коготь медведя. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs язык дракона. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь ворожеи vs вода. Typing Alchemy.Ingredient_hagravenclaw_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs коготь медведя. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs язык дракона. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+COMP INGR голубой горный цветок vs вода. Typing Alchemy.Ingredient_bluemountainflower_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result FALSE
+BEGINCOMPARSION язык дракона, коготь медведя, вода | коготь медведя, язык дракона, вода
+COMP INGR язык дракона vs коготь медведя. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR язык дракона vs язык дракона. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR язык дракона vs вода. Typing Alchemy.Ingredient_dragonstounge_ == Alchemy.Ingredient with result False
+COMP INGR коготь медведя vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь медведя vs язык дракона. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient with result False
+COMP INGR коготь медведя vs вода. Typing Alchemy.Ingredients.Ingredient_bearsclaw_ == Alchemy.Ingredient with result False
+COMP INGR вода vs коготь медведя. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+COMP INGR вода vs язык дракона. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+COMP INGR вода vs вода. Typing Alchemy.Ingredients.Ingredient_water_ == Alchemy.Ingredient with result False
+ENDCOMPARSION with result TRUE
